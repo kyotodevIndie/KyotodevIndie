@@ -2,7 +2,7 @@
 
 **FrontEnd | Ui Designer**
 
-https://img.shields.io/badge/LinkedIn-Thallys-%23343434
+[![Twitter Badge](https://img.shields.io/badge/-@DevKyoto-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DevKyoto) 
 
 
 <!--
