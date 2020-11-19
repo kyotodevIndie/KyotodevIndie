@@ -2,7 +2,7 @@
 
 **FrontEnd | Ui Designer**
 
-![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FDevKyoto)
+https://img.shields.io/badge/LinkedIn-Thallys-#4b0082 
 
 
 <!--
