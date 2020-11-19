@@ -2,7 +2,7 @@
 
 **FrontEnd | Ui Designer**
 
-[![Twitter Badge](https://img.shields.io/badge/-@DevKyoto-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DevKyoto) 
+![Twitter Badge](https://img.shields.io/badge/-@DevKyoto-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DevKyoto) 
 
 
 <!--
