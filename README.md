@@ -1,4 +1,10 @@
 ### Hi there 👋
+# Kyoto | Thallys Morais
+
+**FrontEnd | Ui Designer**
+
+![Twitter Badge](https://img.shields.io/badge/-@danrigoni1-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/danrigoni1) 
+![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Daniel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danrigoni/) 
 
 <!--
 **kyotodevIndie/KyotodevIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
