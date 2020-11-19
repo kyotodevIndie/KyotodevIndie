@@ -2,10 +2,9 @@
 
 **FrontEnd | Ui Designer**
 
-![Twitter Badge](https://img.shields.io/badge/-@DevKyoto-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DevKyoto) 
-
-
 <!--
+![Twitter Badge](https://img.shields.io/badge/-@DevKyoto-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DevKyoto)_ 
+
 **kyotodevIndie/KyotodevIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
