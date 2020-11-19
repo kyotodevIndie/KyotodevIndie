@@ -2,7 +2,7 @@
 
 **FrontEnd | Ui Designer**
 
-https://img.shields.io/badge/LinkedIn-Thallys-#4b0082 
+https://img.shields.io/badge/LinkedIn-Thallys-%23343434
 
 
 <!--
