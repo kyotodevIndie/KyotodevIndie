@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/thallys-morais-a2a140167/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/thallys-morais-a2a140167/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:kyotodevindie@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kyotodevindie@gmail.com)](mailto:kyotodevindie@gmail.com)
 
   
