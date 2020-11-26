@@ -4,7 +4,7 @@
 <p align='center'>
   
   <a href="https://github.com/KyotodevIndie">
-     <img src="https://visitor-badge.glitch.me/badge?style=for-the-badge?page_id=kyotodevindie.visitor-badge" />
+     <img src="https://visitor-badge.glitch.me/badge?page_id=kyotodevindie.visitor-badge?style=for-the-badge" />
   </a>&nbsp;&nbsp;
   
    <a href="https://gist.github.com/KyotodevIndie">
