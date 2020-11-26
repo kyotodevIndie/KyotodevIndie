@@ -17,6 +17,10 @@
   <a href="https://medium.com/@vicentethallys">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
+  <a href="https://gist.github.com/KyotodevIndie">
+     <img src="https://img.shields.io/badge/-Gist-555859?style=for-the-badge&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie" />
+  </a>&nbsp;&nbsp;
 
   
   </p>
