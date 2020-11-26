@@ -25,6 +25,10 @@
    
   </p>
   
+  <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
+</p>
+  
 
 
 <!--
