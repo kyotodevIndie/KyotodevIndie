@@ -1,7 +1,4 @@
-<p align='center'>
-
 <h4 align='center> Kyoto | Thallys Morais <h4>
-</p>
 **FrontEnd | Ui Designer**
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kyotodevindie.visitor-badge)](https://github.com/KyotodevIndie)
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie)](https://gist.github.com/KyotodevIndie)
