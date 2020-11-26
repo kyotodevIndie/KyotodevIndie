@@ -25,11 +25,6 @@
    
   </p>
   
-  <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
-</p>
-  
-
 
 <!--
 **kyotodevIndie/KyotodevIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
