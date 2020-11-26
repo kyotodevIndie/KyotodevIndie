@@ -1,9 +1,11 @@
 <p align='center'>
 
 ### Kyoto | Thallys Morais
-
+</p>
+<p align='center'>
 **FrontEnd | Ui Designer**
-
+  </p>
+<p align='center'>
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kyotodevindie.visitor-badge)](https://github.com/KyotodevIndie)
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie)](https://gist.github.com/KyotodevIndie)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KyotodevIndie)](https://github.com/KyotodevIndie)
