@@ -1,7 +1,7 @@
 <h2 align='center'>Hello there 👋 i'm Kyoto (Thallys Morais) </h2>
 <h3 align='center'>FrontEnd Developer | Ui Designer</h3> <br/>
 
-<p align='center'>
+<p align='center' style="align-itens: center;">
   
    <a href="https://gist.github.com/KyotodevIndie">
      <img src="https://img.shields.io/badge/-Gist-555859?style=for-the-badge&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie" />
