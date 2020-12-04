@@ -23,12 +23,13 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
    
-  </p>
   
 
   ![Kyoto's github stats](https://github-readme-stats.vercel.app/api?username=kyotodevindie&theme=synthwave&show_icons=true)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyotodevindie&layout=compact)
+  
+  </p>
 
 <!--
 **kyotodevIndie/KyotodevIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
