@@ -29,6 +29,11 @@
   ![Kyoto's github stats](https://github-readme-stats.vercel.app/api?username=kyotodevindie&theme=synthwave&show_icons=true)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyotodevindie&layout=compact)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
