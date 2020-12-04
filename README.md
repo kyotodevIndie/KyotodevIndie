@@ -25,9 +25,9 @@
    
   </p>
   
-  <p align='center'>
+<center>
   [![Kyoto's github stats](https://github-readme-stats.vercel.app/api?username=kyotodevindie&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+
   
 
 <!--
