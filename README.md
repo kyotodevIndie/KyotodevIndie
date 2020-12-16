@@ -26,8 +26,10 @@
    
   
 <div align="center">
+  
   ![Kyoto's github stats](https://github-readme-stats.vercel.app/api?username=kyotodevindie&theme=synthwave&show_icons=true)
- </div
+
+</div
   
  
 
