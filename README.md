@@ -1,9 +1,24 @@
 <h2 align='center'>Hello there 👋 i'm Kyoto (Thallys Morais) </h2>
 <h3 align='center'>FrontEnd Developer | Ui Designer</h3> <br/>
 
-<p align='center'>
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyotodevindie&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyotodevindie&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
   
-   <a href="https://gist.github.com/KyotodevIndie">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kyoto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kyoto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kyoto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kyoto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vue-original.svg">
+  <img align="center" alt="Kyoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kyoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
+  
+  <a href="https://gist.github.com/KyotodevIndie">
      <img src="https://img.shields.io/badge/-Gist-555859?style=for-the-badge&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie" />
   </a>&nbsp;&nbsp;
   
@@ -22,28 +37,5 @@
   <a href="https://medium.com/@vicentethallys">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
-  </p>
-   
-  
-<div align="center">
-  
-  ![Kyoto's github stats](https://github-readme-stats.vercel.app/api?username=kyotodevindie&theme=synthwave&show_icons=true)
-
-</div
-  
  
-
-<!--
-**kyotodevIndie/KyotodevIndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Snake animation](https://github.com/KyotodevIndie/KyotodevIndie/blob/output/github-contribution-grid-snake.svg)
