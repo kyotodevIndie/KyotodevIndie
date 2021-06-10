@@ -16,6 +16,8 @@
   <img align="center" alt="Kyoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
+ 
+    ##
   
   <a href="https://gist.github.com/KyotodevIndie">
      <img src="https://img.shields.io/badge/-Gist-555859?style=for-the-badge&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie" />
@@ -37,7 +39,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
  
-   ##
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
