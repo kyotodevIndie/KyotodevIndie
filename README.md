@@ -1,5 +1,5 @@
-<h2 align='center'>Hello there 👋 i'm Kyoto (Thallys Morais) </h2>
-<h3 align='center'>FrontEnd Developer | Ui Designer</h3> <br/>
+<h2>Hello there 👋 i'm Kyoto (Thallys Morais) </h2>
+<h3>FrontEnd Developer | Ui Designer</h3> <br/>
 
 
  <div>
