@@ -1,5 +1,5 @@
 <h2>Hello there 👋 i'm Kyoto (Thallys Morais) </h2>
-<h3>FrontEnd Developer | Ux Designer</h3> <br/>
+<h3>Sr Software Engineer | Tech Lead</h3> <br/>
 
 
  <div>
