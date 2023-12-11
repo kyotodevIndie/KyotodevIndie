@@ -8,11 +8,14 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kyoto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kyoto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kyoto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kyoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Kyoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
+  <img align="center" alt="Kyoto-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Kyoto-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Kyoto-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Kyoto-Svelt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
+  <img align="center" alt="Kyoto-Svelt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Kyoto-Svelt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
  
  ##
