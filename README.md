@@ -1,6 +1,25 @@
-<h2>Hello there 👋 i'm Kyoto (Thallys Morais) </h2>
-<h3>Sr Software Engineer | Tech Lead</h3> <br/>
+# Hi, I'm Thallys 👋
 
+Software Engineer focused on **Frontend, Full Stack and Software Architecture**, with 10+ years of experience building web, mobile and real-time products.
+
+I've worked across fintech, retail, SaaS, consulting and interactive applications, contributing as an engineer and technical leader.
+
+### Main stack
+
+TypeScript · Vue.js · React · Node.js · Next.js · Nuxt
+
+### What I'm working on
+
+🐱 **Terracota** — Open-source desktop companion for coding agents.
+
+🔎 **JobLens** — Open-source toolkit for improving job search coverage across platforms.
+
+🧩 **Hera** — Multi-tenant SaaS platform for small businesses.
+
+### Interests
+
+Frontend Architecture · Developer Tools · Open Source ·
+Real-time Applications · Performance · AI-assisted Development
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyotodevindie&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -8,17 +27,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Svelt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
-  <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-</div>
- 
- ##
   
   <a href="https://gist.github.com/KyotodevIndie">
      <img src="https://img.shields.io/badge/-Gist-555859?style=for-the-badge&logo=Github&logoColor=white&link=https://gist.github.com/KyotodevIndie" />
