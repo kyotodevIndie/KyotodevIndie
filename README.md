@@ -16,15 +16,15 @@ TypeScript · Vue.js · React · Node.js · Next.js · Nuxt
 
 ### What I'm building
 
-🟣 **Vuelume** — Open-source visual editor for Vue applications that works directly with your source code, without introducing a proprietary runtime or lock-in.
+🐱 **[Teracota](LINK_DO_REPO)** — Extensible desktop interface for AI coding agents, bringing tools like Claude Code, Codex and OpenCode into a unified desktop experience.
 
-⚒️ **Hephaestus** — TypeScript-first 2D game engine and visual development platform for web and UI-oriented games.
+🟣 **[Vuelume](LINK_DO_REPO)** — Open-source visual editor for Vue applications that works directly with your source code, without introducing a proprietary runtime or lock-in.
 
-🐱 **Teracota** — Extensible desktop interface for AI coding agents, bringing tools like Claude Code, Codex and OpenCode into a unified desktop experience.
+⚒️ **[Hephaestus](LINK_DO_REPO)** — TypeScript-first 2D game engine and visual development platform for web and UI-oriented games.
 
-🔎 **JobLens** — Open-source toolbox for discovering, understanding, comparing and tracking tech job opportunities.
+🔎 **[JobLens](LINK_DO_REPO)** — Open-source toolbox for discovering, understanding, comparing and tracking tech job opportunities.
 
-🧩 **Hera** — Multi-tenant SaaS platform for managing different types of small businesses through modular domains and features.
+🧩 **[Hera](LINK_DO_REPO)** — Multi-tenant SaaS platform for managing different types of small businesses through modular domains and features.
 
 ### Interests
 
