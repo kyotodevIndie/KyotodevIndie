@@ -1,6 +1,6 @@
 # Hi, I'm Thallys 👋
 
-Software Engineer focused on **Frontend, Full Stack and Software Architecture**, with 10+ years of experience building web, mobile and real-time products.
+Software Engineer focused on **Frontend, Full Stack and Software Architecture**, with 14+ years of experience building web, mobile and real-time products.
 
 I've worked across fintech, retail, SaaS, consulting and interactive applications, contributing as an engineer and technical leader.
 
