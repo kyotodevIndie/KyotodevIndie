@@ -31,10 +31,10 @@ TypeScript · Vue.js · React · Node.js · Next.js · Nuxt
 Frontend Architecture · Developer Tools · Open Source · Software Architecture ·  
 Game Development · Real-time Applications · Performance · AI-assisted Development
 
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyotodevindie&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyotodevindie&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
+</div> -->
 
 <!-- <div style="display: inline_block"><br>
 
